@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi! Welcome to my profile! 👋
+## I'm Ronaldo Rocha!
 
 <!--
 **ronaldocuca/ronaldocuca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
