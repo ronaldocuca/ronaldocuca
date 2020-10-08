@@ -1,6 +1,6 @@
 # Hi! Welcome to my profile! 👋
 ## I'm Ronaldo Rocha!
-
+Web Developer Front-end and Back-end in @Icourier :)
 <!--
 **ronaldocuca/ronaldocuca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
